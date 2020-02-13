@@ -1,0 +1,137 @@
+{
+  "recipes": [
+    {
+      "name": "",
+      "prepTime": "",
+      "cookTime": "",
+      "categories": [
+        { "level": 1, "label": "" },
+        { "level": 2, "label": "" }
+      ],
+      "ingredients": {
+        "yield": {
+          "number": 4,
+          "label": "personnes"
+        },
+        "list": [
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          }
+        ]
+      },
+      "steps": [
+        {
+          "id": "",
+          "content": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "",
+      "prepTime": "",
+      "cookTime": "",
+      "categories": [
+        { "level": 1, "label": "" },
+        { "level": 2, "label": "" }
+      ],
+      "ingredients": {
+        "yield": {
+          "number": 4,
+          "label": "personnes"
+        },
+        "list": [
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          }
+        ]
+      },
+      "steps": [
+        {
+          "id": "",
+          "content": ""
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "",
+      "prepTime": "",
+      "cookTime": "",
+      "categories": [
+        { "level": 1, "label": "" },
+        { "level": 2, "label": "" }
+      ],
+      "ingredients": {
+        "yield": {
+          "number": 4,
+          "label": "personnes"
+        },
+        "list": [
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "",
+            "amount": "",
+            "unit": ""
+          }
+        ]
+      },
+      "steps": [
+        {
+          "id": "",
+          "content": ""
+        },
+        {
+          "id": "",
+          "content": ""
+        },
+        {
+          "id": "",
+          "content": ""
+        },
+        {
+          "id": "",
+          "content": ""
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "user1"
+  }
+}
