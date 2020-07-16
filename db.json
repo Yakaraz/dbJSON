@@ -1,137 +1,293 @@
-{
-  "recipes": [
-    {
-      "name": "",
-      "prepTime": "",
-      "cookTime": "",
-      "categories": [
-        { "level": 1, "label": "" },
-        { "level": 2, "label": "" }
-      ],
-      "ingredients": {
-        "yield": {
-          "number": 4,
-          "label": "personnes"
-        },
-        "list": [
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          }
-        ]
-      },
-      "steps": [
-        {
-          "id": "",
-          "content": ""
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "name": "",
-      "prepTime": "",
-      "cookTime": "",
-      "categories": [
-        { "level": 1, "label": "" },
-        { "level": 2, "label": "" }
-      ],
-      "ingredients": {
-        "yield": {
-          "number": 4,
-          "label": "personnes"
-        },
-        "list": [
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          }
-        ]
-      },
-      "steps": [
-        {
-          "id": "",
-          "content": ""
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "name": "",
-      "prepTime": "",
-      "cookTime": "",
-      "categories": [
-        { "level": 1, "label": "" },
-        { "level": 2, "label": "" }
-      ],
-      "ingredients": {
-        "yield": {
-          "number": 4,
-          "label": "personnes"
-        },
-        "list": [
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          },
-          {
-            "ingredient": "",
-            "amount": "",
-            "unit": ""
-          }
-        ]
-      },
-      "steps": [
-        {
-          "id": "",
-          "content": ""
-        },
-        {
-          "id": "",
-          "content": ""
-        },
-        {
-          "id": "",
-          "content": ""
-        },
-        {
-          "id": "",
-          "content": ""
-        }
-      ],
-      "notes": ""
-    }
-  ],
-  "profile": {
+{recipes : [
+  {
     "id": 1,
-    "name": "user1"
+    "categories": [
+      { "level": 1, "label": "dessert" },
+      { "level": 2, "label": "sucré" },
+      { "level": 2, "label": "tarte" },
+      { "level": 3, "label": "chocolat" },
+      { "level": 3, "label": "vegan" }
+    ],
+    "name": "Tarte chocolat et noix de coco sans sucre ni beurre recette",
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "ingredients": {
+      "yield": {
+        "number": 8,
+        "label": "personnes"
+      },
+      "listsIngredients": [
+        {
+          "nameList": "Pour la pâte",
+          "list": [
+            {
+              "ingredient": "farine T-45 ou T-55 (complète : mettre 20g de moins)",
+              "amount": 170,
+              "unit": "g"
+            },
+            {
+              "ingredient": "poudre d'amandes (ou noisettes)",
+              "amount": 70,
+              "unit": "g"
+            },
+            {
+              "ingredient": "huile de coco",
+              "amount": 50,
+              "unit": "g"
+            },
+            {
+              "ingredient": "sucre de fleur de coco",
+              "amount": 55,
+              "unit": "g"
+            },
+            {
+              "ingredient": "lait de coco (ou autre lait végétal/animal)",
+              "amount": 70,
+              "unit": "g"
+            },
+            {
+              "ingredient": "sel fin",
+              "amount": 1,
+              "unit": "pincée"
+            }
+          ]
+        },
+        {
+          "nameList": "Pour la garniture",
+          "list": [
+            {
+              "ingredient": "crème de coco (ou riz, soja)",
+              "amount": 500,
+              "unit": "ml"
+            },
+            {
+              "ingredient": "chocolat noir (minimum 60% de cacao)",
+              "amount": 200,
+              "unit": "g"
+            },
+            {
+              "ingredient": "fruits pour le dressage",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        }
+      ],
+      "listsSteps": [
+        {
+          "nameSteps": "Pour la pâte",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Déposer la totalité les ingrédients dans un saladier, mélanger avec une cuillère en bois, puis pétrir à la main 2 minutes afin d'obtenir une pâte homogène,"
+            },
+            {
+              "id": 2,
+              "content": "Étaler la pâte avec un rouleau à pâtisserie, et la déposer dans le moule a tarte recouvert de papier sulfurisé"
+            },
+            {
+              "id": 3,
+              "content": "Chauffer le four à 180°, piquer la pâte avec une fourchette, puis enfourner à blanc pendant 15 minutes."
+            }
+          ]
+        },
+        {
+          "nameSteps": "Pour la garniture",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Dans une casserole, chauffer à feu moyen la crème, jusqu'aux premières ébullition, et retirer du feu,"
+            },
+            {
+              "id": 2,
+              "content": "Ajouter ensuite le chocolat en morceaux et le laisser fondre en mélangeant de temps en temps, toujours hors du feu,"
+            },
+            {
+              "id": 3,
+              "content": "Verser le mélange sur la tarte cuite, puis laisser refroidir minimum 2 heures au réfrigérateur. Ajouter un peu de noix de coco râpée au centre de la tarte avant de servir !"
+            }
+          ]
+        }
+      ],
+      "notes": "Personne ne pourra imaginer que cette tarte au chocolat et à la noix de coco, ne contient aucun sucre ajouté, ni de beurre dans la pâte, très simple à réaliser. Laissez vous tentez… sans regrets ! 😉 Si vous êtes actuellement sur cette page, il est fort possible que la tarte au chocolat soit un dessert que vous appréciez, tout comme moi d’ailleurs ! Mais ici, pas question d’utiliser du beurre ou du sucre ! Ils sont remplacés par des ingrédients plus sains, et la différence ne se sent absolument pas ! Les intolérants au lactose pourront également savourer cette tarte, qui n’en contient pas !"
+    },
+    "profile": {
+      "id": 1,
+      "name": "user1"
+    }
+  },
+  {
+    "id": 2,
+    "categories": [
+      { "level": 1, "label": "entrée" },
+      { "level": 2, "label": "salade" },
+      { "level": 2, "label": "asie" },
+      { "level": 3, "label": "avocat" },
+      { "level": 3, "label": "crevettes" }
+    ],
+    "name": "Salade d'avocats et de crevettes au wasabi",
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "ingredients": {
+      "yield": {
+        "number": 6,
+        "label": "personnes"
+      },
+      "listsIngredients": [
+        {
+          "nameList": "Pour la salade",
+          "list": [
+            {
+              "ingredient": "avocats mûrs, mais fermes",
+              "amount": 2,
+              "unit": "gros"
+            },
+            {
+              "ingredient": "crevettes cuites, décortiquées",
+              "amount": 250,
+              "unit": "g"
+            },
+            {
+              "ingredient": "chicorée, si possible rouges",
+              "amount": 2,
+              "unit": "coeurs"
+            },
+            {
+              "ingredient": "cresson",
+              "amount": "quelques",
+              "unit": "branches"
+            },
+            {
+              "ingredient": "citron vert",
+              "amount": 6,
+              "unit": "quartiers"
+            }
+          ]
+        },
+        {
+          "nameList": "Pour la sauce",
+          "list": [
+            {
+              "ingredient": "wasabi",
+              "amount": 2,
+              "unit": "cuill. à café"
+            },
+            {
+              "ingredient": "huile d'olive",
+              "amount": 4,
+              "unit": "cuill. à soupe"
+            },
+            {
+              "ingredient": "jus de citron vert",
+              "amount": 2,
+              "unit": "cuill. à soupe"
+            },
+            {
+              "ingredient": "miel liquide",
+              "amount": 1,
+              "unit": "cuill. à café"
+            },
+            {
+              "ingredient": "sel",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        }
+      ],
+      "listsSteps": [
+        {
+          "nameSteps": "",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Préparez la sauce : dans un grand saladier, mélangez bien les ingrédients. Salez et réservez."
+            },
+            {
+              "id": 2,
+              "content": "Coupez les avocats en deux et enlevez le noyau. Découpez la chair en dés, sans enlevez la peau, puis retirez-la et mettez les morceaux dans un saladier. Ajoutez les crevettes et la sauce ; mélangez."
+            },
+            {
+              "id": 3,
+              "content": "Séparez les feuilles de chicorées et disposez 2 ou 3 feuilles sur chacunes des assiettes ou ramesuins. Ajoutezle mélange d'avocats et de crevettes. Complétez par quelques branches de cresson et les quartiers de citron vert."
+            }
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    "profile": {
+      "id": 1,
+      "name": "user1"
+    }
+  },
+  {
+    "id": 0,
+    "categories": [
+      { "level": 1, "label": "" },
+      { "level": 2, "label": "" }
+    ],
+    "name": "",
+    "prepTime": "",
+    "cookTime": "",
+    "ingredients": {
+      "yield": {
+        "number": 0,
+        "label": ""
+      },
+      "listsIngredients": [
+        {
+          "nameList": "",
+          "list": [
+            {
+              "ingredient": "",
+              "amount": 0,
+              "unit": ""
+            },
+            {
+              "ingredient": "",
+              "amount": 0,
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "nameList": "",
+          "list": [
+            {
+              "ingredient": "",
+              "amount": 0,
+              "unit": ""
+            },
+            {
+              "ingredient": "",
+              "amount": 0,
+              "unit": ""
+            }
+          ]
+        }
+      ],
+      "listsSteps": [
+        {
+          "nameSteps": "",
+          "steps": [
+            {
+              "id": 1,
+              "content": ""
+            },
+            {
+              "id": 2,
+              "content": ""
+            }
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    "profile": {
+      "id": 0,
+      "name": ""
+    }
   }
+],
 }
