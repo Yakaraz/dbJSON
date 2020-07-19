@@ -73,45 +73,46 @@
               }
             ]
           }
-        ],
-        "listsSteps": [
-          {
-            "nameSteps": "Pour la pâte",
-            "steps": [
-              {
-                "id": 1,
-                "content": "Déposer la totalité les ingrédients dans un saladier, mélanger avec une cuillère en bois, puis pétrir à la main 2 minutes afin d'obtenir une pâte homogène,"
-              },
-              {
-                "id": 2,
-                "content": "Étaler la pâte avec un rouleau à pâtisserie, et la déposer dans le moule a tarte recouvert de papier sulfurisé"
-              },
-              {
-                "id": 3,
-                "content": "Chauffer le four à 180°, piquer la pâte avec une fourchette, puis enfourner à blanc pendant 15 minutes."
-              }
-            ]
-          },
-          {
-            "nameSteps": "Pour la garniture",
-            "steps": [
-              {
-                "id": 1,
-                "content": "Dans une casserole, chauffer à feu moyen la crème, jusqu'aux premières ébullition, et retirer du feu,"
-              },
-              {
-                "id": 2,
-                "content": "Ajouter ensuite le chocolat en morceaux et le laisser fondre en mélangeant de temps en temps, toujours hors du feu,"
-              },
-              {
-                "id": 3,
-                "content": "Verser le mélange sur la tarte cuite, puis laisser refroidir minimum 2 heures au réfrigérateur. Ajouter un peu de noix de coco râpée au centre de la tarte avant de servir !"
-              }
-            ]
-          }
-        ],
-        "notes": "Personne ne pourra imaginer que cette tarte au chocolat et à la noix de coco, ne contient aucun sucre ajouté, ni de beurre dans la pâte, très simple à réaliser. Laissez vous tentez… sans regrets ! 😉 Si vous êtes actuellement sur cette page, il est fort possible que la tarte au chocolat soit un dessert que vous appréciez, tout comme moi d’ailleurs ! Mais ici, pas question d’utiliser du beurre ou du sucre ! Ils sont remplacés par des ingrédients plus sains, et la différence ne se sent absolument pas ! Les intolérants au lactose pourront également savourer cette tarte, qui n’en contient pas !"
+        ]
       },
+      
+      "listsSteps": [
+        {
+          "nameSteps": "Pour la pâte",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Déposer la totalité les ingrédients dans un saladier, mélanger avec une cuillère en bois, puis pétrir à la main 2 minutes afin d'obtenir une pâte homogène,"
+            },
+            {
+              "id": 2,
+              "content": "Étaler la pâte avec un rouleau à pâtisserie, et la déposer dans le moule a tarte recouvert de papier sulfurisé"
+            },
+            {
+              "id": 3,
+              "content": "Chauffer le four à 180°, piquer la pâte avec une fourchette, puis enfourner à blanc pendant 15 minutes."
+            }
+          ]
+        },
+        {
+          "nameSteps": "Pour la garniture",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Dans une casserole, chauffer à feu moyen la crème, jusqu'aux premières ébullition, et retirer du feu,"
+            },
+            {
+              "id": 2,
+              "content": "Ajouter ensuite le chocolat en morceaux et le laisser fondre en mélangeant de temps en temps, toujours hors du feu,"
+            },
+            {
+              "id": 3,
+              "content": "Verser le mélange sur la tarte cuite, puis laisser refroidir minimum 2 heures au réfrigérateur. Ajouter un peu de noix de coco râpée au centre de la tarte avant de servir !"
+            }
+          ]
+        }
+      ],
+      "notes": "Personne ne pourra imaginer que cette tarte au chocolat et à la noix de coco, ne contient aucun sucre ajouté, ni de beurre dans la pâte, très simple à réaliser. Laissez vous tentez… sans regrets ! 😉 Si vous êtes actuellement sur cette page, il est fort possible que la tarte au chocolat soit un dessert que vous appréciez, tout comme moi d’ailleurs ! Mais ici, pas question d’utiliser du beurre ou du sucre ! Ils sont remplacés par des ingrédients plus sains, et la différence ne se sent absolument pas ! Les intolérants au lactose pourront également savourer cette tarte, qui n’en contient pas !",
       "profile": {
         "id": 1,
         "name": "user1"
@@ -195,28 +196,28 @@
               }
             ]
           }
-        ],
-        "listsSteps": [
-          {
-            "nameSteps": "",
-            "steps": [
-              {
-                "id": 1,
-                "content": "Préparez la sauce : dans un grand saladier, mélangez bien les ingrédients. Salez et réservez."
-              },
-              {
-                "id": 2,
-                "content": "Coupez les avocats en deux et enlevez le noyau. Découpez la chair en dés, sans enlevez la peau, puis retirez-la et mettez les morceaux dans un saladier. Ajoutez les crevettes et la sauce ; mélangez."
-              },
-              {
-                "id": 3,
-                "content": "Séparez les feuilles de chicorées et disposez 2 ou 3 feuilles sur chacunes des assiettes ou ramesuins. Ajoutezle mélange d'avocats et de crevettes. Complétez par quelques branches de cresson et les quartiers de citron vert."
-              }
-            ]
-          }
-        ],
-        "notes": ""
+        ]
       },
+      "listsSteps": [
+        {
+          "nameSteps": "",
+          "steps": [
+            {
+              "id": 1,
+              "content": "Préparez la sauce : dans un grand saladier, mélangez bien les ingrédients. Salez et réservez."
+            },
+            {
+              "id": 2,
+              "content": "Coupez les avocats en deux et enlevez le noyau. Découpez la chair en dés, sans enlevez la peau, puis retirez-la et mettez les morceaux dans un saladier. Ajoutez les crevettes et la sauce ; mélangez."
+            },
+            {
+              "id": 3,
+              "content": "Séparez les feuilles de chicorées et disposez 2 ou 3 feuilles sur chacunes des assiettes ou ramesuins. Ajoutezle mélange d'avocats et de crevettes. Complétez par quelques branches de cresson et les quartiers de citron vert."
+            }
+          ]
+        }
+      ],
+      "notes": "",
       "profile": {
         "id": 1,
         "name": "user1"
@@ -267,24 +268,24 @@
               }
             ]
           }
-        ],
-        "listsSteps": [
-          {
-            "nameSteps": "",
-            "steps": [
-              {
-                "id": 1,
-                "content": ""
-              },
-              {
-                "id": 2,
-                "content": ""
-              }
-            ]
-          }
-        ],
-        "notes": ""
+        ]
       },
+      "listsSteps": [
+        {
+          "nameSteps": "",
+          "steps": [
+            {
+              "id": 1,
+              "content": ""
+            },
+            {
+              "id": 2,
+              "content": ""
+            }
+          ]
+        }
+      ],
+      "notes": "",
       "profile": {
         "id": 0,
         "name": ""
